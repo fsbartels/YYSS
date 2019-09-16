@@ -5,8 +5,8 @@ This repository contains the code, summaries and data belonging to the MBA Thesi
 Yoga Video Summarization'. 
 
 The following folder structure is required on Google Drive before running the scripts;
- - Thesis
- -- Posinformation
+ 'Root' folder: Thesis
+ Within that 'root' folder: Poseinformation
 
 The code can be executed by first loading the Thesis_1_Preprocessing.ipynb in Google Colab, picking a YouTube video ID and running the entire script.
 
